@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! My name is Arien Alabar and I'm currently a freelance designer and have been coding since middle school. I'm also the biggest fan of blind boxes. 
+Hello! My name is Arien Alabar and I'm currently a second year Psychology Student with a minor in Computing Science & Bioinformatics. 
+🪴I currently freelance in web design and am working towards my UX/UI certification.
+🥬 I've been coding since I was in middle school and my first ever project was in Scratch 😆
+
+fun fact: ☕ I am a matcha lover & I love Smiskis <3
 
 
 # 💻 Tech Stack:
