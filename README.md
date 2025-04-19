@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! :
 Hello! My name is Arien Alabar and I'm currently a second year Psychology Student with a minor in Computing Science & Bioinformatics. 
 
 🪴I currently freelance in web design and am working towards my UX/UI certification.
